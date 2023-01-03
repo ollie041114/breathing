@@ -1,0 +1,27 @@
+{
+    "frequency": {
+        "ON": 11,
+        "OFF": 10
+    },
+    "brightness": {
+        "ON": 21,
+        "OFF": 20
+    },
+    "shapes": {
+        "fill": {
+            "ON": 411,
+            "OFF": 410
+        },
+        "static": 42,
+        "circle": 43,
+        "rectangle": {
+            "vertical": 441,
+            "horizontal": 442,
+            "center": 443
+        }
+    },
+    "velocity": {
+        "vertical": 51,
+        "horizontal": 52
+    }
+}
